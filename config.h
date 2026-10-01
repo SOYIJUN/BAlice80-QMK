@@ -23,3 +23,5 @@
 #define ENCODER_B_PINS { B8 }
 #define ENCODER_RESOLUTIONS { 2 }
 #define ENCODER_DEFAULT_POS 0x3
+
+#define DEBOUNCE 10
